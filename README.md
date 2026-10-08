@@ -1,232 +1,91 @@
-<h1 align="center">Hi 👋, I'm Pratyush Raj</h1>
-
-<h3 align="center">
-🚀 AI Engineer in Progress | Agentic AI | Multi-Agent Systems | LLM Engineering
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Building+Production+Grade+AI+Systems;Multi-Agent+Architecture+Developer;LLM+Engineering+%7C+Google+ADK+%7C+Ray;Backend+AI+Infrastructure+Builder" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Pratyushr949&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Always-Learning-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Building-AI_Systems-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open_To-Collaboration-orange?style=for-the-badge"/>
-</p>
-
----
-
+<h1 align="center">Hi 👋, I'm Raj Aryan</h1> <h3 align="center"> 📊 Data Science Undergrad | Machine Learning & Analytics | Full-Stack Developer (Java · Spring Boot · Python) </h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Turning+Data+into+Decisions;Machine+Learning+%7C+NLP+%7C+Forecasting;Spring+Boot+%2B+FastAPI+%2B+PostgreSQL;Building+AI-Powered+Full-Stack+Products" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=therajaryan&label=Profile%20Views&color=blueviolet&style=for-the-badge" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/raj-aryan-2227a6293"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:raj.aryan.6944@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/therajaryan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/Open_To-Internships_%26_Full--Time_Roles-orange?style=for-the-badge"/> </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=90&section=header"/>
+🚀 About Me <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="30">
+🎓 B.Tech CSE (Hons – Data Science) at University of Petroleum and Energy Studies (UPES), Dehradun · 2023 – 2027
 
-# 🚀 About Me <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="30">
+💡 I build data-driven, AI-powered applications, from cleaning datasets and training ML models to shipping them behind production-style REST APIs
 
-🎓 B.Tech CSE (AI/ML Specialization) Student  
+🧠 Comfortable across the stack: ML/NLP in Python, backend in Java/Spring Boot & FastAPI, PostgreSQL data modelling, and React frontends
 
-💡 Passionate about building scalable **production-grade AI systems**  
-
-⚡ Interested in solving real-world engineering problems through intelligent automation  
-
-🔥 Focused on backend AI engineering, LLM systems and distributed AI infrastructure  
-
----
+🤝 I like translating business requirements into working technical solutions and collaborating with cross-functional teams
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+💼 Experience <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="30">
+🖥️ Software Intern · Cravita Technologies India Pvt. Ltd., Pune
+Jun – Jul 2024
 
-# 🔭 Currently Working On <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="30">
+Worked with a cross-functional team of 5+ developers on the design, development and testing of web applications
+Debugged and resolved 20+ software defects, improving application stability and performance
+Analysed and fixed production incidents, contributing to an 18% reduction in critical incident reports
+🌱 Intern · Society for Environment and Sustainable Development, New Delhi
+Jun – Jul 2023
 
-## Enterprise Intelligent Document Processing Pipeline
+Researched environmental policies and sustainability initiatives across 15+ case studies
+Collected and analysed data for sustainability and awareness projects; prepared reports for NGO outreach programs
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+💻 Featured Projects
+🛒 SmartCom AI: AI-Powered Retail Analytics & Forecasting Platform <img src="https://img.shields.io/badge/Status-In_Progress-success?style=flat-square">
+<!-- Add the repo link here: <a href="https://github.com/therajaryan/REPO_NAME">🔗 Repository</a> -->
+A retail analytics platform that turns transactional data into reporting, insights and ML-powered sales forecasts.
 
-Building a large scale system capable of:
+📦 Structures and analyses transactional data across 6+ business modules (Products, Customers, Sales, …)
+🤖 Sales-forecasting module powered by ML models trained on cleaned, feature-engineered Kaggle retail datasets
+🗄️ Normalized PostgreSQL schema with foreign-key relationships, exposed through secure REST APIs (JWT auth)
+🧩 Modular architecture built for upcoming recommendation systems and dynamic pricing
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/> </p>
+🎯 AI-Based Internship Recommendation & Resume Analytics System <img src="https://img.shields.io/badge/NLP-Completed-blue?style=flat-square">
+<!-- Add the repo link here: <a href="https://github.com/therajaryan/REPO_NAME">🔗 Repository</a> -->
+Matches candidates to internships using semantic similarity, then helps them close their skill gaps.
 
-✅ OCR Extraction Pipeline  
-✅ Parallel AI Agents Processing  
-✅ Rule Based Classification  
-✅ LLM Based Classification  
-✅ Entity Extraction  
-✅ PII Detection Agent  
-✅ Validation Agent  
-✅ Confidence Scoring  
-✅ JSON + Excel Report Generation  
-✅ Google ADK Orchestration  
-✅ Distributed Parallel Execution using Ray  
-
----
+📄 Analysed 500+ resumes and recommended internships using Word2Vec embeddings + cosine similarity
+🔍 Skill-gap detection: compares resume content against job requirements and suggests learning videos
+✅ End-to-end flow: candidates apply to matched internships directly on the platform
+⚙️ Spring Boot backend + FastAPI NLP microservice, with PostgreSQL storage and AWS S3 for files
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Word2Vec-NLP-FF6F00?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/> </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+⚙️ Tech Stack <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30">
+Programming Languages
+<p> <img src="https://skillicons.dev/icons?i=python,java,c" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" height="48"/> </p>
+Data Science, ML & Analytics
+<p> <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/NLP_(Word2Vec)-8A2BE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/Predictive_Analytics-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/EDA-success?style=for-the-badge"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/> </p>
+Backend & Web Development
+<p> <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,react,js,html,css" /> </p>
+Databases
+<p> <img src="https://skillicons.dev/icons?i=postgres,mysql" /> </p>
+Cloud & Developer Tools
+<p> <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" /> </p>
+Core CS
+Data Structures & Algorithms · OOP · DBMS · Operating Systems · Machine Learning · Predictive Analytics
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+🌱 Currently Learning & Exploring <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="28">
+📌 Time-series forecasting & recommendation systems (for SmartCom AI)
 
-# 👯 Open To Collaborate On <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="28">
+📌 Advanced NLP & semantic search
 
-🔹 Agentic AI Systems  
-🔹 Multi-Agent Architectures  
-🔹 LLM Engineering  
-🔹 AI Infrastructure Projects  
-🔹 Backend AI Development  
-🔹 AI Automation Systems  
+📌 Scalable backend design with Spring Boot & microservices
 
----
+📌 Data visualization & business-intelligence dashboards
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-# 🌱 Currently Learning <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="28">
-
-📌 Advanced Agentic AI Systems  
-
-📌 Distributed Computing with Ray  
-
-📌 Retrieval Augmented Generation (RAG)  
-
-📌 Production Grade Backend Engineering  
-
-📌 AI System Design Architecture  
-
-📌 Scalable AI Infrastructure  
-
----
+👯 Open To Collaborate On <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="28">
+🔹 Data Science & Analytics Projects 🔹 Machine Learning / NLP Applications 🔹 Full-Stack Apps with Spring Boot / FastAPI + React 🔹 Recommendation & Forecasting Systems
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+📊 GitHub Analytics <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="28">
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=therajaryan&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therajaryan&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img width="70%" src="https://streak-stats.demolab.com/?user=therajaryan&theme=tokyonight&hide_border=true" /> </p>
+📈 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=therajaryan&theme=tokyo-night&hide_border=true"/> </p>
+📫 Connect With Me <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="28">
+📧 Email → raj.aryan.6944@gmail.com
 
-# 💻 Featured Projects
+💻 GitHub → github.com/therajaryan
 
-## 📄 Intelligent Document Processing Pipeline <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square">
+🔗 LinkedIn → linkedin.com/in/raj-aryan-2227a6293
 
-- OCR  
-- Google ADK  
-- Parallel Agents  
-- Rule Engine  
-- LLM Classification  
-- Entity Extraction  
-- Validation Pipeline  
-- Report Generation  
-
----
-
-## 🦅 Bird Intrusion Detection System <img src="https://img.shields.io/badge/Computer_Vision-Research-blue?style=flat-square">
-
-- YOLOv8  
-- RT-DETR  
-- Computer Vision  
-- Real-Time Detection  
-- Weather Data Augmentation  
-
----
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-# ⚙️ Tech Stack <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30">
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript" />
-</p>
-
-### AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
-
-### Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
-</p>
-
-### DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
-</p>
-
-### Currently Working With
-
-<p>
-<img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white">
-<img src="https://img.shields.io/badge/Multi_Agent_AI-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/LLM_Engineering-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Ray_Distributed-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/OCR_Pipeline-success?style=for-the-badge">
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-# 📊 GitHub Analytics <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="28">
+🎯 Career Goal
+To work as a Data Scientist / ML Engineer building intelligent, data-driven products, combining machine learning, analytics and solid backend engineering to solve real business problems.
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pratyushr949&show_icons=true&theme=tokyonight" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyushr949&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img width="70%" src="https://streak-stats.demolab.com/?user=Pratyushr949&theme=tokyonight" />
-</p>
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Pratyushr949&theme=algolia&margin-w=15&margin-h=15"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratyushr949&theme=tokyo-night"/>
-</p>
-
----
-
-# 🐍 Contribution Snake Animation
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
-# 📫 Connect With Me <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="28">
-
-📧 Email → **pratyushr949@gmail.com**  
-
-💻 GitHub → **https://github.com/Pratyushr949**  
-
-🔗 LinkedIn → **www.linkedin.com/in/pratyushraj31**  
-
----
-
-# 🎯 Career Goal
-
-Become an **AI Engineer building scalable production-grade intelligent systems using Agentic AI, LLMs, distributed computing and backend AI infrastructure.**
-
----
-
-<p align="center">
-
-### ⚡ Building • Learning • Shipping • Improving
-
-</p>
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=100&section=footer"/>
+⚡ Analyse • Build • Ship • Improve
+</p> <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"> </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=100&section=footer"/>
